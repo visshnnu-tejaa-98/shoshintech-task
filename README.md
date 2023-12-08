@@ -7,7 +7,7 @@
 4. run the command "npm run start"
 5. Application will run in localhost:8000
 
-6. navigate to clint folder
+6. navigate to client folder
 7. install node modules
 8. run the command "npm run start"
 9. application runs in localhost:3000
